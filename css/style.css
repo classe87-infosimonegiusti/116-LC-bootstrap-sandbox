@@ -1,0 +1,9 @@
+.ms_box {
+    height: 200px;
+    border: dashed 2px black;
+}
+
+.ms_box_inner {
+    height: 150px;
+    border: dashed 2px red;
+}
